@@ -9,4 +9,5 @@ I'm on discord at `Ollie#0175` so feel free to send me a message there :)
 
 This is a wrapper I have written in python for the Rust+ mobile API for interfacing with the server. See [Here](https://github.com/olijeffers0n/rustplus) for more info and join our discord here:
 
-<iframe src="https://discord.com/widget?id=872406750639321088&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+<div align="center"><img src="https://discordapp.com/api/guilds/872406750639321088/widget.png?style=banner2" alt="Discord"></div>
