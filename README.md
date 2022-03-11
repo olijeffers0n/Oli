@@ -1,6 +1,6 @@
 # Hi, I'm Ollie
 
-Small dev on a couple of open source projects. Love to collaborate on things.
+Small dev on a couple of open source projects. Love to collaborate on projects and with other people.
 
 I'm on discord at `Ollie#0175` so feel free to send me a message there :)
 
