@@ -4,6 +4,8 @@ Small dev on a couple of open source projects. Love to collaborate on projects a
 
 I'm on discord at `Ollie#0175` so feel free to send me a message there :)
 
+I also host a hastebin [here](https://paste.ollieee.xyz/) for anyone to use for anything they need
+
 ## Rust+.py
 <div><img src="https://raw.githubusercontent.com/olijeffers0n/rustplus/master/icon.png" alt="RustPlus" height="80"/></div>
 
