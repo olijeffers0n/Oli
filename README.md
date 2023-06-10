@@ -2,7 +2,7 @@
 
 Small dev on a couple of open source projects. Love to collaborate on projects and with other people.
 
-I'm on discord at `ollieee.` so feel free to send me a message there :)
+I'm on discord at `ollieee_` so feel free to send me a message there :)
 
 I also host a hastebin [here](https://paste.ollieee.xyz/) for anyone to use for anything they need
 
